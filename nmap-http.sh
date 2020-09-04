@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ "$#" != "1" ]; then
-	echo "Nmap FTP: A Tool to automate Nmap FTP scripts by David Gillett"
+	echo "Nmap HTTP: A Tool to automate iterating over Nmap HTTP scripts by David Gillett"
 	echo " " 
 	echo "Usage: nmap-http <ip address>"
 	echo "Example: nmap-http 10.10.10.191"
